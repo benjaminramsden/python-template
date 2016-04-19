@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # encoding: utf-8
 """
-${TM_NEW_FILE_BASENAME}.py
+template.py
 
-Created by ${TM_FULLNAME} on ${TM_DATE}.
-Copyright (c) ${TM_YEAR} ${TM_ORGANIZATION_NAME}. All rights reserved.
+Created by Ben Ramsden on 19/04/2016.
+Copyright (c) 2016 500k Churches. All rights reserved.
 """
 import os
 import sys
